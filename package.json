@@ -43,7 +43,7 @@
     "node-gzip": "^1.1.2",
     "truffle": "^5.1.37",
     "dot-prop": ">=5.1.1",
-    "elliptic": ">=6.5.3",
+    "elliptic": ">=6.5.4",
     "bl": ">=2.2.1"
   },
   "dependencies": {
